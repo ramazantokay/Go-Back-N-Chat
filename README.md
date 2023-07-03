@@ -52,3 +52,14 @@ make all
 
 ## Acknowledgements
 This project is based on the Go-Back-N protocol described in the textbook "Computer Networking: A Top-Down Approach" by James F. Kurose and Keith W. Ross.
+
+## Disclaimer
+- Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution.
+
+- Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements.
+
+- Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
