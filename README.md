@@ -47,8 +47,6 @@ make all
 
 7. Terminate the chat session by entering three consecutive newline characters (two empty lines) in the user input.
 
-<br>
-<br>
 
 ## Acknowledgements
 This project is based on the Go-Back-N protocol described in the textbook "Computer Networking: A Top-Down Approach" by James F. Kurose and Keith W. Ross.
