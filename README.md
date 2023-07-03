@@ -24,11 +24,11 @@ To build and run this project, you'll need the following:
 ## Getting Started
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ramazantokay/Go-Back-N-Chat.git
 ```
 2. Change into the project directory:
 ```
-cd your-repository
+cd Go-Back-N-Chat
 ```
 3. Build the binaries:
 ```
